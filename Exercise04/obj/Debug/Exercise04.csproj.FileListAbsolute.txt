@@ -1,0 +1,7 @@
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\bin\Debug\Exercise04.exe.config
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\bin\Debug\Exercise04.exe
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\bin\Debug\Exercise04.pdb
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\obj\Debug\Exercise04.csproj.AssemblyReference.cache
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\obj\Debug\Exercise04.csproj.CoreCompileInputs.cache
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\obj\Debug\Exercise04.exe
+C:\Users\Nguyễn Thanh Thảo\Documents\CSLT_VS2022\VS_Exercise\Exercise04\obj\Debug\Exercise04.pdb

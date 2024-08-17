@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{27A44A47-A9BF-4DBF-8BF7-7B045B2EA8F0}|VS_Exercise\\Exercise01.csproj|c:\\users\\nguy\u1EC5n thanh th\u1EA3o\\documents\\cslt_vs2022\\vs_exercise\\vs_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{27A44A47-A9BF-4DBF-8BF7-7B045B2EA8F0}|VS_Exercise\\Exercise01.csproj|solutionrelative:vs_exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76112370-0565-40F7-B020-BCF88FF38ED6}|Exercise04\\Exercise04.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76112370-0565-40F7-B020-BCF88FF38ED6}|Exercise04\\Exercise04.csproj|solutionrelative:exercise04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21078889-6F4D-4F57-B181-3F27459147C7}|Exercise10\\Exercise10.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21078889-6F4D-4F57-B181-3F27459147C7}|Exercise10\\Exercise10.csproj|solutionrelative:exercise10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC28946-5FDA-46C7-8796-43F57A78BE69}|Exercise09\\Exercise09.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC28946-5FDA-46C7-8796-43F57A78BE69}|Exercise09\\Exercise09.csproj|solutionrelative:exercise09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375C4DEA-D372-4B29-BC4D-FBAAF5D775E6}|Exercise08\\Exercise08.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375C4DEA-D372-4B29-BC4D-FBAAF5D775E6}|Exercise08\\Exercise08.csproj|solutionrelative:exercise08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{550A82F9-FE0F-4904-BAA0-DFCA4CBFF65D}|Exercise06\\Exercise06.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550A82F9-FE0F-4904-BAA0-DFCA4CBFF65D}|Exercise06\\Exercise06.csproj|solutionrelative:exercise06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F94E1B-3FF1-4105-8266-FD03286CAB4C}|Exercise07\\Exercise07.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F94E1B-3FF1-4105-8266-FD03286CAB4C}|Exercise07\\Exercise07.csproj|solutionrelative:exercise07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9594F239-D7EB-4330-9388-D24EFE33EEC7}|Exercise03\\Exercise03.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9594F239-D7EB-4330-9388-D24EFE33EEC7}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D07EFC-09AA-4138-9041-9CE7E72F2BC9}|Exercise02\\Exercise02.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D07EFC-09AA-4138-9041-9CE7E72F2BC9}|Exercise02\\Exercise02.csproj|solutionrelative:exercise02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE83C56-D6A6-495F-8CFC-67B5D3836A0D}|Exercise05\\Exercise05.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\exercise05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE83C56-D6A6-495F-8CFC-67B5D3836A0D}|Exercise05\\Exercise05.csproj|solutionrelative:exercise05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{27A44A47-A9BF-4DBF-8BF7-7B045B2EA8F0}|VS_Exercise\\Exercise01.csproj|C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\VS_Exercise\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{27A44A47-A9BF-4DBF-8BF7-7B045B2EA8F0}|VS_Exercise\\Exercise01.csproj|solutionrelative:VS_Exercise\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise10\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise10\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise10\\Program.cs",
+              "RelativeToolTip": "Exercise10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:24:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise09\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise09\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise09\\Program.cs",
+              "RelativeToolTip": "Exercise09\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:18:42.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise08\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise08\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise08\\Program.cs",
+              "RelativeToolTip": "Exercise08\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wBEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:31:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise06\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise06\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise06\\Program.cs",
+              "RelativeToolTip": "Exercise06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:42:16.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise05\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise05\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise05\\Program.cs",
+              "RelativeToolTip": "Exercise05\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:53:50.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise04\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise04\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise04\\Program.cs",
+              "RelativeToolTip": "Exercise04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:42:02.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\VS_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "VS_Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\VS_Exercise\\Program.cs",
+              "RelativeToolTip": "VS_Exercise\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:45:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise07\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise07\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise07\\Program.cs",
+              "RelativeToolTip": "Exercise07\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:48:46.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise03\\Program.cs",
+              "RelativeToolTip": "Exercise03\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:29:07.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise02\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\Exercise02\\Program.cs",
+              "RelativeToolTip": "Exercise02\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:29:09.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\VS_Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "VS_Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\VS_Exercise\\VS_Exercise\\Program.cs",
+              "RelativeToolTip": "VS_Exercise\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:16:17.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
