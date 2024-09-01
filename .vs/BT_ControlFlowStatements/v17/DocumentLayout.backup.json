@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\BT_ControlFlowStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1B859B-3061-4A7E-B042-D626D3CE7734}|BT_ControlFlowStatements\\BT_ControlFlowStatements.csproj|c:\\users\\nguy\u1EC5n thanh th\u1EA3o\\documents\\cslt_vs2022\\bt_controlflowstatements\\bt_controlflowstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1B859B-3061-4A7E-B042-D626D3CE7734}|BT_ControlFlowStatements\\BT_ControlFlowStatements.csproj|solutionrelative:bt_controlflowstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\BT_ControlFlowStatements\\BT_ControlFlowStatements\\Program.cs",
+              "RelativeDocumentMoniker": "BT_ControlFlowStatements\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguy\u1EC5n Thanh Th\u1EA3o\\Documents\\CSLT_VS2022\\BT_ControlFlowStatements\\BT_ControlFlowStatements\\Program.cs",
+              "RelativeToolTip": "BT_ControlFlowStatements\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:58:32.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
