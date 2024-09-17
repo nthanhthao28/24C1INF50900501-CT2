@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhwCRkwc9OY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nguyễn Thanh Thảo\\Documents\\CSLT_VS2022\\BT_Array\\Array\\Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyễn Thanh Thảo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.8\\microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
